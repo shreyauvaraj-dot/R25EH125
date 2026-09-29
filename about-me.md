@@ -18,6 +18,7 @@ My programming foundation includes **Python and C**, and I am continuously devel
 I enjoy **learning by building projects** and experimenting with new technologies.
 
 My current focus is on strengthening my fundamentals, gaining practical experience, and becoming more confident in developing real-world applications.
+I believe in learning by building, improving through practice, and staying curious about new technologies.
 
 ### 💡 My Learning Philosophy
 
@@ -28,3 +29,4 @@ I believe that every project, even a small one, is an opportunity to learn somet
 ### 🚀 What I'm Working Toward
 
 I want to build a strong foundation in AI and Data Science while gaining practical experience through projects, internships, certifications, and continuous learning.
+
